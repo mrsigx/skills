@@ -1,0 +1,4 @@
+interface:
+  display_name: "Number Play"
+  short_description: "Play with numbers and sort what's real from what's made"
+  default_prompt: "Use $number-play to play with my numbers, tag each finding as structure, convention or made, and end with the count of readings tried."

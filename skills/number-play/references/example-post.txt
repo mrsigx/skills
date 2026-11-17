@@ -1,0 +1,5 @@
+Count this post.
+5 lines.
+17 words.
+89 characters, total.
+Every count on every line is prime.

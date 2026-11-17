@@ -1,0 +1,4 @@
+interface:
+  display_name: "Aim Profile"
+  short_description: "Find and carry your aim profile across games"
+  default_prompt: "Use $aim-profile to find my aim profile from my game history and carry it into another game, keeping physical turn distance, FOV, and ADS feel distinct."

@@ -1,0 +1,12 @@
+[package]
+name = "aimcount"
+version = "0.1.0"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+publish = false
+description = "Passive raw-input mouse counter for measuring counts per 360 in games (Windows)"
+
+[dependencies]
+
+[profile.release]
+opt-level = 2

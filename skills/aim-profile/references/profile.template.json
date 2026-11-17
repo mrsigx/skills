@@ -1,0 +1,28 @@
+{
+  "profile_version": 1,
+  "player": "",
+  "updated_at": "",
+  "hardware": {
+    "dpi": { "value": null, "evidence": "", "date": "" },
+    "display": { "width": null, "height": null, "refresh_hz": null, "evidence": "", "date": "" }
+  },
+  "reference": {
+    "game": "",
+    "why": "",
+    "cm360_hip": { "value": null, "evidence": "", "date": "", "method": "" },
+    "fov": { "value": null, "axis": "", "rendered_horizontal": null, "evidence": "", "date": "" },
+    "ads_goal": { "value": "", "evidence": "", "date": "" }
+  },
+  "games": [
+    {
+      "game": "",
+      "settings": [
+        { "key": "", "value": null, "file": "", "written_at": "", "evidence": "", "meaning": "" }
+      ],
+      "target": { "sensitivity": null, "cm360": null, "model": "", "gate": "" },
+      "notes": []
+    }
+  ],
+  "open_questions": [],
+  "_evidence_values": "measured | recorded | calculated | estimated | stated"
+}

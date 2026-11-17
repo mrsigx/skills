@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "null-limit-skills",
+  "description": "Free-to-use agent skills from Null Limit.",
+  "owner": {
+    "name": "Null Limit Co."
+  },
+  "plugins": [
+    {
+      "name": "null-limit",
+      "description": "Null Limit's public skills: number-play and aim-profile.",
+      "author": {
+        "name": "Null Limit Co."
+      },
+      "category": "productivity",
+      "source": "./",
+      "homepage": "https://github.com/mrsigx/skills"
+    }
+  ]
+}
